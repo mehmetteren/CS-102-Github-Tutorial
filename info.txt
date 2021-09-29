@@ -1,2 +1,20 @@
 Mehmet Eren Balasar - 22001954 - https://github.com/mehmetteren
 Favorite video game: Age of Mythology
+
+commit 5783ff33dceffafd45acc5441d3e80fd633ae950 (HEAD -> new_information, origin/new_information)
+Author: mehmet eren balasar <eren.balasar@ug.bilkent.edu.tr>
+Date:   Wed Sep 29 21:53:01 2021 +0300
+
+    Mehmet Eren updated 'info.txt'
+
+commit f081861ae669766e5cce17a06694db036ae09b56 (main)
+Author: mehmet eren balasar <eren.balasar@ug.bilkent.edu.tr>
+Date:   Wed Sep 29 21:45:40 2021 +0300
+
+    Mehmet Eren updated 'info.txt'
+
+commit 726b5ff26c7c947093e8727e4bef03885f5fb20d
+Author: mehmetteren <91607477+mehmetteren@users.noreply.github.com>
+Date:   Wed Sep 29 16:55:12 2021 +0300
+
+    Initial commit
